@@ -2,14 +2,16 @@
 <h1 align="center">Hola 👋, me llamo Dani</h1>
 <h3 align="center">Soy ingeniero y profesor de TIC</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danimrprofe&label=Profile%20views&color=0e75b6&style=flat" alt="danimrprofe" /> </p>
+<img src="profesor.jpg" style="display: block;margin: 0px auto" width="50%">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danimrprofe" alt="danimrprofe" /></a> </p>
+<h3 align="left">Estudios</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 👨‍🎓 Ingeniero técnico en telecomunicaciones, especialidad en telemática (UIB)
+- 👨‍🎓 Ingeniero de telecomunicación (UPC)
+- 👨‍🎓 Master's degree in Applied Telecommunications and Engineering Management (MASTEAM)
 
-<h3 align="left">Materias:</h3>
-<p align="left">He dado clase de:</p>
+<h3 align="left">Materias</h3>
+<p align="left">Me dedico a la docencia desde 2009. He dado clase de:</p>
 
 Ciclos formativos de formación profesional (grado medio y superior):
 
@@ -37,3 +39,9 @@ Bachillerato:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danimrprofe&show_icons=true&locale=en" alt="danimrprofe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danimrprofe&" alt="danimrprofe" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danimrprofe&label=Profile%20views&color=0e75b6&style=flat" alt="danimrprofe" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danimrprofe" alt="danimrprofe" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
