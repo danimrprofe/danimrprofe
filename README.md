@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Dani</h1>
-<h3 align="center">Profesor de TIC de España</h3>
+<h1 align="center">Hola 👋, me llamo Dani</h1>
+<h3 align="center">Soy ingeniero y profesor de TIC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danimrprofe&label=Profile%20views&color=0e75b6&style=flat" alt="danimrprofe" /> </p>
 
